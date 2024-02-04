@@ -15,7 +15,7 @@ public class fruits : MonoBehaviour
     }
     void Update()
     {
-        if (transform.position.y <-5)
+        if (transform.position.y <-7)
         {
             Die();
         }
